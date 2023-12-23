@@ -1,0 +1,1 @@
+del "src\GenericPID\*.class" /S /Q >> deleted.log
