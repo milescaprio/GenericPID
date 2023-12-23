@@ -5,7 +5,8 @@ A full implementation of motor PID control from scratch. Includes:
 * Artificial motor simulation
 * Custom complex paths
 * Generic interfaces for custom implementation
-* Auto-tuning using multidimensional gradient descent (in-progress)
+* Gradient Descent controller for tuning
+* Auto-tuning (in-progress)
 
 Created for ChainLynx 8248 Robotics, 2023.
 All code by and Copyright (c) Miles Caprio 2023.
